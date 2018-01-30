@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Project: 'https://github.com/Caio99BR/twrp_device_lge_me1' -->
+<!-- Manifest: 'https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/commits/twrp-7.1' -->
+<!-- Repo Init: 'repoinittwrp 7.1' -->
+<!-- Untracked: '' -->
+<manifest>
+
+  <project name="Caio99BR/twrp_device_lge_me1" path="device/lge/me1" remote="github" revision="android-7.1" />
+
+</manifest>
